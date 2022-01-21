@@ -20,6 +20,7 @@ Apenas clonar o repositorio ou baixar e extrair os arquivos e utilizar com o seu
 
   <img align="center" alt="Amauri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
 ## Imagens do Projeto Completo
 ### Imagem de NavBar 
 
